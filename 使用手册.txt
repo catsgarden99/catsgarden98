@@ -1,0 +1,8 @@
+themes的layout是底层
+修改在themes里的config即可,外面也行
+资源，如图片等我都丢在外面了，同步的，估计可以改里面的
+s
+额外打开链接（不额外的话不用附加属性
+<a href="https://www.bilibili.com/video/av91085675" target="_blank" rel="noopener noreferrer">自己感受</a>
+页尾为footer
+
