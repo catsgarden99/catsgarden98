@@ -6,15 +6,83 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-06-19T07:53:38.179Z</updated>
+  <updated>2021-02-06T10:54:31.961Z</updated>
   <id>/</id>
   
   <author>
-    <name>catsgardne</name>
+    <name>catsgarden</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CDN学习记录</title>
+    <link href="/2021/02/06/CDN%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <id>/2021/02/06/CDN学习记录/</id>
+    <published>2021-02-06T09:57:39.000Z</published>
+    <updated>2021-02-06T10:54:31.961Z</updated>
+    
+    <summary type="html">
+    
+      CDN学习
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="博客" scheme="/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="CDN" scheme="/tags/CDN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown学习记录</title>
+    <link href="/2021/02/06/markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>/2021/02/06/markdown学习记录（一）/</id>
+    <published>2021-02-06T09:12:13.000Z</published>
+    <updated>2021-02-06T09:57:23.498Z</updated>
+    
+    <summary type="html">
+    
+      markdown使用
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="markdown" scheme="/tags/markdown/"/>
+    
+      <category term="博客" scheme="/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今日诗词的调用</title>
+    <link href="/2021/02/06/%E4%BB%8A%E6%97%A5%E8%AF%97%E8%AF%8D%E7%9A%84%E8%B0%83%E7%94%A8/"/>
+    <id>/2021/02/06/今日诗词的调用/</id>
+    <published>2021-02-06T09:09:48.000Z</published>
+    <updated>2021-02-06T10:54:23.160Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;网站&quot;&gt;&lt;a href=&quot;#网站&quot; class=&quot;headerlink&quot; title=&quot;网站&quot;&gt;&lt;/a&gt;网站&lt;/h1&gt;&lt;h2 id=&quot;简单安装&quot;&gt;&lt;a href=&quot;#简单安装&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>随想测试</title>
