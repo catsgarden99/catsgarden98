@@ -25,7 +25,8 @@ menus:
   } }
   清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
     书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
-    DD: {path: /bangumi/, fa: fa-film faa-vertical }, 
+    追番: {path: /bangumi/, fa: fa-film faa-vertical }, 
+    DD: {path: /DD/, fa: fa-film faa-vertical },
     歌单: {path: /music/, fa: fa-headphones },
     图集: {path: /tags/图集/, fa: fa-photo }
   } }
@@ -35,11 +36,10 @@ menus:
   关于: { path: /, fa: fa-leaf faa-wrench , submenus: { 
     我？: {path: /about/, fa: fa-meetup}, 
     主题: {path: /theme-sakura/, fa: iconfont icon-sakura },
-    Lab: {path: /lab/, fa: fa-cogs },
+#    Lab: {path: /lab/, fa: fa-cogs },
   } }
-  客户端: { path: /client/, fa: fa-android faa-vertical }
+#  客户端: { path: /client/, fa: fa-android faa-vertical }
 #  RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
-
 
 # Home page sort type: -1: newer first，1: older first.
 homePageSortType: -1
@@ -69,7 +69,7 @@ siteBuildingTime: 06/17/2020
 social:
   github: {url: https://github.com/catsgarden99, img: /img/social/github.jpg}
   sina: {url: https://weibo.com/6824682306/profile?topnav=1&wvr=6, img: /img/social/sina.jpg}
-  wangyiyun: {url: https://music.163.com/playlist?id=161622176&userid=128923128, img: /img/social/wangyiyun.png}
+  wangyiyun: {url: https://music.163.com/#/user/home?id=128923128, img: /img/social/wangyiyun.png}
   #zhihu: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/zhihu.png}
   #email: {url: https://weibo.com/6824682306/profile?topnav=1&wvr=6, img: /img/social/email.svg}
   wechat: {url: /#, qrcode: /img/donate/WeChanQR.png, img: /img/social/wechat.jpg}

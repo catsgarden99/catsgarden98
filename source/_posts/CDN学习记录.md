@@ -14,3 +14,7 @@ description: CDN学习
 photos:
 ---
 # CDN网站
+[cdn](https://www.jsdelivr.com/?docs=gh)
+[教程](https://www.bilibili.com/video/BV1rt411a7pf)
+
+大概就是github上传到库了之后直接哪来用

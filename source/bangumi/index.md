@@ -16,7 +16,7 @@ bangumis:
   - img: https://cdn.jsdelivr.net/gh/catsgarden99/cdn@1.3/img/vup/gaotaiwei.jpg
     title: 高槻りつ
     status: 清楚清楚
-    progress: 50
+    progress: 80
     jp: 清楚清楚
     time: 直播地址：自己查
     desc: 梁山好汉（ 
