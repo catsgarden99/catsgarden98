@@ -5,7 +5,7 @@ avatar: 'https://cdn.jsdelivr.net/gh/catsgarden99/cdn@1.3/img/favicon.ico'
 authorLink: catsgarden.top
 authorAbout: 只会喊咩夸贴贴
 authorDesc: 
-categories: 技术
+categories: 笔记
 comments: true
 date: 2021-02-06 17:12:13
 tags:
@@ -13,7 +13,7 @@ tags:
  - 博客
 keywords:
 description: markdown使用
-photos:
+photos: https://cdn.jsdelivr.net/gh/catsgarden99/blogcdn@1.1/posts/%E6%96%87%E7%AB%A0%E9%BB%98%E8%AE%A4.jpg
 ---
 # 添加代码块
 

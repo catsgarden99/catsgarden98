@@ -9,7 +9,9 @@ comments: true
 date: 2021-02-06 19:59:56
 tags:
 description:
-photos:
+photos: https://cdn.jsdelivr.net/gh/catsgarden99/blogcdn@1.1/posts/%E6%96%87%E7%AB%A0%E9%BB%98%E8%AE%A4.jpg
 ---
 https://yremp.live/hexo-sakura-questions/
 https://yremp.live/hexo-sakura/
+
+博客修改后
