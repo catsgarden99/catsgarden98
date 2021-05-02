@@ -1,5 +1,5 @@
 ---
-title: Python QT学习笔记（一）
+title: Python QT学习笔记
 author: catsgarden
 avatar: 'https://cdn.jsdelivr.net/gh/catsgarden99/cdn@1.3/img/favicon.ico'
 authorLink: catsgarden.top

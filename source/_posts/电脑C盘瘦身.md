@@ -1,5 +1,5 @@
 ---
-title: 电脑C盘瘦身
+title: 电脑C盘瘦身软件
 author: catsgarden
 avatar: 'https://cdn.jsdelivr.net/gh/catsgarden99/cdn@1.3/img/favicon.ico'
 authorLink: catsgarden.top
