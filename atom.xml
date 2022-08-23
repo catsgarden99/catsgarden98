@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CATS Garden</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://localhost/"/>
+  <updated>2022-08-01T05:10:07.449Z</updated>
+  <id>http://localhost/</id>
+  
+  <author>
+    <name>catsgarden</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>spring学习</title>
+    <link href="http://localhost/2022/08/01/spring%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://localhost/2022/08/01/spring学习/</id>
+    <published>2022-08-01T05:07:14.000Z</published>
+    <updated>2022-08-01T05:10:07.449Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#&lt;/p&gt;
+&lt;h2 id=&quot;Spring&quot;&gt;&lt;a href=&quot;#Spring&quot; class=&quot;headerlink&quot; title=&quot;Spring&quot;&gt;&lt;/a&gt;Spring&lt;/h2&gt;&lt;p&gt;Spring
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>配置到域名噶了</title>
+    <link href="http://localhost/2022/05/31/%E9%85%8D%E7%BD%AE%E5%88%B0%E5%9F%9F%E5%90%8D%E5%99%B6%E4%BA%86/"/>
+    <id>http://localhost/2022/05/31/配置到域名噶了/</id>
+    <published>2022-05-31T02:33:39.000Z</published>
+    <updated>2022-05-31T02:34:22.705Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#&lt;br&gt;为什么！为什么过一阵子域名访问就噶了，是解析的锅么&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>docker配置rocketmq</title>
+    <link href="http://localhost/2022/05/31/docker%E9%85%8D%E7%BD%AErocketmq/"/>
+    <id>http://localhost/2022/05/31/docker配置rocketmq/</id>
+    <published>2022-05-31T02:22:38.000Z</published>
+    <updated>2022-05-31T02:28:49.510Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;RocketMQ&quot;&gt;&lt;a href=&quot;#RocketMQ&quot; class=&quot;headerlink&quot; title=&quot;RocketMQ&quot;&gt;&lt;/a&gt;RocketMQ&lt;/h1&gt;&lt;h2 id=&quot;docker部署&quot;&gt;&lt;a href=&quot;#docker部署&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="docker" scheme="http://localhost/tags/docker/"/>
+    
+      <category term="rocketmq" scheme="http://localhost/tags/rocketmq/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>navicat配置</title>
+    <link href="http://localhost/2022/05/26/navicat%E9%85%8D%E7%BD%AE/"/>
+    <id>http://localhost/2022/05/26/navicat配置/</id>
+    <published>2022-05-26T06:45:27.000Z</published>
+    <updated>2022-05-26T06:47:38.895Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;下载navicat&quot;&gt;&lt;a href=&quot;#下载navicat&quot; class=&quot;headerlink&quot; title=&quot;下载navicat&quot;&gt;&lt;/a&gt;下载navicat&lt;/h2&gt;&lt;p&gt;自己搜吧&lt;/p&gt;
+&lt;h2 id=&quot;报错&quot;&gt;&lt;a href=&quot;#报错&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>vscode中arduino环境配置</title>
+    <link href="http://localhost/2022/01/18/vscode%E4%B8%ADarduino%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    <id>http://localhost/2022/01/18/vscode中arduino环境配置/</id>
+    <published>2022-01-18T13:06:42.000Z</published>
+    <updated>2022-01-18T13:38:13.272Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;来自&lt;a href=&quot;https://blog.csdn.net/Holo__/article/details/113101005&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>手机短视频</title>
+    <link href="http://localhost/2021/09/21/%E6%89%8B%E6%9C%BA/"/>
+    <id>http://localhost/2021/09/21/手机/</id>
+    <published>2021-09-21T09:40:48.000Z</published>
+    <updated>2021-09-22T15:36:45.551Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;win安装appium&quot;&gt;&lt;a href=&quot;#win安装appium&quot; class=&quot;headerlink&quot; title=&quot;win安装appium&quot;&gt;&lt;/a&gt;win安装appium&lt;/h1&gt;&lt;p&gt;appium.io&lt;/p&gt;
+&lt;h1
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="appium" scheme="http://localhost/tags/appium/"/>
+    
+      <category term="adb" scheme="http://localhost/tags/adb/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随想测试</title>
+    <link href="http://localhost/2021/09/21/%E9%9A%8F%E6%83%B3%E6%B5%8B%E8%AF%95/"/>
+    <id>http://localhost/2021/09/21/随想测试/</id>
+    <published>2021-09-21T07:45:41.317Z</published>
+    <updated>2020-06-19T07:53:40.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;123&lt;br&gt;123&lt;/p&gt;
+&lt;p&gt;223&lt;br&gt;233&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="http://localhost/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>转载测试</title>
+    <link href="http://localhost/2021/09/21/%E8%BD%AC%E8%BD%BD/"/>
+    <id>http://localhost/2021/09/21/转载/</id>
+    <published>2021-09-21T07:45:41.314Z</published>
+    <updated>2020-06-19T07:53:40.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;123&lt;br&gt;123&lt;/p&gt;
+&lt;p&gt;223&lt;br&gt;233&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="转载" scheme="http://localhost/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>资源测试</title>
+    <link href="http://localhost/2021/09/21/%E8%B5%84%E6%BA%90/"/>
+    <id>http://localhost/2021/09/21/资源/</id>
+    <published>2021-09-21T07:45:41.313Z</published>
+    <updated>2020-06-19T07:53:40.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;123&lt;br&gt;123&lt;/p&gt;
+&lt;p&gt;223&lt;br&gt;233&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="资源" scheme="http://localhost/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生活测试</title>
+    <link href="http://localhost/2021/09/21/%E7%94%9F%E6%B4%BB%E6%B5%8B%E8%AF%95/"/>
+    <id>http://localhost/2021/09/21/生活测试/</id>
+    <published>2021-09-21T07:45:41.310Z</published>
+    <updated>2020-06-19T07:53:38.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;123&lt;br&gt;123&lt;/p&gt;
+&lt;p&gt;223&lt;br&gt;233&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="http://localhost/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>图集测试</title>
+    <link href="http://localhost/2021/09/21/%E5%9B%BE%E9%9B%86%E6%B5%8B%E8%AF%95/"/>
+    <id>http://localhost/2021/09/21/图集测试/</id>
+    <published>2021-09-21T07:45:41.305Z</published>
+    <updated>2020-06-19T08:01:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;123&lt;br&gt;123&lt;/p&gt;
+&lt;p&gt;223&lt;br&gt;233&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="图集" scheme="http://localhost/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阅读测试</title>
+    <link href="http://localhost/2021/09/21/%E4%B9%A6%E7%B1%8D%E6%B5%8B%E8%AF%95/"/>
+    <id>http://localhost/2021/09/21/书籍测试/</id>
+    <published>2021-09-21T07:45:41.301Z</published>
+    <updated>2020-06-19T07:59:20.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;123&lt;br&gt;123&lt;/p&gt;
+&lt;p&gt;223&lt;br&gt;233&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="阅读" scheme="http://localhost/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World hexo作者提供的文章</title>
+    <link href="http://localhost/2021/09/21/hello-world/"/>
+    <id>http://localhost/2021/09/21/hello-world/</id>
+    <published>2021-09-21T07:45:05.077Z</published>
+    <updated>2020-12-13T13:42:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>blender学习——基础</title>
+    <link href="http://localhost/2021/04/11/blender%E5%AD%A6%E4%B9%A0%E2%80%94%E5%9F%BA%E7%A1%80/"/>
+    <id>http://localhost/2021/04/11/blender学习—基础/</id>
+    <published>2021-04-11T14:03:28.000Z</published>
+    <updated>2021-04-17T09:29:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Ji4y1g7Kf?p=1&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;font size=&quot;5&quot;&gt;视频来源&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1
+        
+      
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://localhost/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="blender" scheme="http://localhost/tags/blender/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>释放qq占用的C盘空间</title>
+    <link href="http://localhost/2021/03/15/%E9%87%8A%E6%94%BEqq%E5%8D%A0%E7%94%A8%E7%9A%84C%E7%9B%98%E7%A9%BA%E9%97%B4/"/>
+    <id>http://localhost/2021/03/15/释放qq占用的C盘空间/</id>
+    <published>2021-03-15T15:56:31.000Z</published>
+    <updated>2021-03-15T16:08:44.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;位置为C:\Users\moonwolf\AppData\Roaming\Tencent&lt;/p&gt;
+&lt;h1 id=&quot;QQ相关&quot;&gt;&lt;a href=&quot;#QQ相关&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="转载" scheme="http://localhost/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+      <category term="电脑清理" scheme="http://localhost/tags/%E7%94%B5%E8%84%91%E6%B8%85%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cmd使用笔记</title>
+    <link href="http://localhost/2021/03/05/cmd%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/"/>
+    <id>http://localhost/2021/03/05/cmd使用笔记/</id>
+    <published>2021-03-05T05:12:58.000Z</published>
+    <updated>2021-03-06T10:56:44.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在bat最后加cmd/k可不关闭cmd窗口&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://localhost/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>git管理学习</title>
+    <link href="http://localhost/2021/03/04/git%E7%AE%A1%E7%90%86%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://localhost/2021/03/04/git管理学习/</id>
+    <published>2021-03-04T07:57:35.000Z</published>
+    <updated>2021-03-06T10:56:52.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;初始化本地仓库&quot;&gt;&lt;a href=&quot;#初始化本地仓库&quot; class=&quot;headerlink&quot; title=&quot;初始化本地仓库&quot;&gt;&lt;/a&gt;初始化本地仓库&lt;/h1&gt;&lt;pre&gt;&lt;code class=&quot;cmd&quot;&gt; git init                    
+        
+      
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://localhost/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="git" scheme="http://localhost/tags/git/"/>
+    
+      <category term="github" scheme="http://localhost/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB＿R2016a安装</title>
+    <link href="http://localhost/2021/03/03/MATLAB%EF%BC%BFR2016a%E5%AE%89%E8%A3%85/"/>
+    <id>http://localhost/2021/03/03/MATLAB＿R2016a安装/</id>
+    <published>2021-03-03T08:14:41.000Z</published>
+    <updated>2021-03-05T06:02:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1B5411x7Vj?from=search&amp;amp;seid=2887112791819480829&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="转载" scheme="http://localhost/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+      <category term="matlab" scheme="http://localhost/tags/matlab/"/>
+    
+      <category term="软件安装" scheme="http://localhost/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电脑C盘瘦身软件</title>
+    <link href="http://localhost/2021/02/23/%E7%94%B5%E8%84%91C%E7%9B%98%E7%98%A6%E8%BA%AB/"/>
+    <id>http://localhost/2021/02/23/电脑C盘瘦身/</id>
+    <published>2021-02-23T10:15:59.000Z</published>
+    <updated>2021-04-11T14:05:10.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;对于C:\Windows\System32\DriverStore可以使用&lt;a href=&quot;https://github.com/lostindark/DriverStoreExplorer/releases&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="电脑清理" scheme="http://localhost/tags/%E7%94%B5%E8%84%91%E6%B8%85%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo开发</title>
+    <link href="http://localhost/2021/02/06/hexo%E5%BC%80%E5%8F%91/"/>
+    <id>http://localhost/2021/02/06/hexo开发/</id>
+    <published>2021-02-06T11:59:56.000Z</published>
+    <updated>2022-08-01T03:07:44.921Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://yremp.live/hexo-sakura-questions/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://yremp.live/hexo-sakura-questions/&lt;/a&gt;&lt;br&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+</feed>
