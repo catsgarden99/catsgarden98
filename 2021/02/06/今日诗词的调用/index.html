@@ -399,7 +399,7 @@
 </code></pre>
 <p>result 的 格式见 接口返回结果格式<br>出错我们会帮你打在控制台上，您无需再次处理。<br>使用定制加载时，不要将标签的 id 或者 class 设置为 jinrishici-sentence ，否则SDK会自动加载一次<br>使用 load 之前，请确保 SDK JS 文件已经引入</p>
 <p>一个高级版的使用例子，可以复制到一个 HTML 文件用浏览器打开查看效果：</p>
-<pre><code>&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<pre><code class="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;poem_info&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
@@ -410,7 +410,8 @@
     info.innerHTML = &#39;【&#39; + result.data.origin.dynasty + &#39;】&#39; + result.data.origin.author + &#39;《&#39; + result.data.origin.title + &#39;》&#39;
   });
 &lt;/script&gt;
-</code></pre><p>预览：</p>
+</code></pre>
+<p>预览：</p>
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 <div id="poem_sentence"></div>
 <br>

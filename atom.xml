@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://localhost/"/>
-  <updated>2022-08-01T05:10:07.449Z</updated>
+  <updated>2022-08-23T08:48:31.344Z</updated>
   <id>http://localhost/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>spring学习</title>
-    <link href="http://localhost/2022/08/01/spring%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://localhost/2022/08/01/spring学习/</id>
-    <published>2022-08-01T05:07:14.000Z</published>
-    <updated>2022-08-01T05:10:07.449Z</updated>
+    <title>全屋智能</title>
+    <link href="http://localhost/2022/08/23/%E5%85%A8%E5%B1%8B%E6%99%BA%E8%83%BD/"/>
+    <id>http://localhost/2022/08/23/全屋智能/</id>
+    <published>2022-08-23T08:47:08.000Z</published>
+    <updated>2022-08-23T08:48:31.344Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;p&gt;#&lt;/p&gt;
-&lt;h2 id=&quot;Spring&quot;&gt;&lt;a href=&quot;#Spring&quot; class=&quot;headerlink&quot; title=&quot;Spring&quot;&gt;&lt;/a&gt;Spring&lt;/h2&gt;&lt;p&gt;Spring
+          &lt;h1 id=&quot;全屋智能&quot;&gt;&lt;a href=&quot;#全屋智能&quot; class=&quot;headerlink&quot; title=&quot;全屋智能&quot;&gt;&lt;/a&gt;全屋智能&lt;/h1&gt;&lt;h2 id=&quot;初步规划&quot;&gt;&lt;a href=&quot;#初步规划&quot; class=&quot;headerlink&quot;
         
       
     
@@ -38,6 +37,12 @@
     
       <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
     
+    
+      <category term="LOT" scheme="http://localhost/tags/LOT/"/>
+    
+      <category term="智能" scheme="http://localhost/tags/%E6%99%BA%E8%83%BD/"/>
+    
+      <category term="装修" scheme="http://localhost/tags/%E8%A3%85%E4%BF%AE/"/>
     
   </entry>
   
@@ -109,30 +114,6 @@
         
           &lt;h2 id=&quot;下载navicat&quot;&gt;&lt;a href=&quot;#下载navicat&quot; class=&quot;headerlink&quot; title=&quot;下载navicat&quot;&gt;&lt;/a&gt;下载navicat&lt;/h2&gt;&lt;p&gt;自己搜吧&lt;/p&gt;
 &lt;h2 id=&quot;报错&quot;&gt;&lt;a href=&quot;#报错&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>vscode中arduino环境配置</title>
-    <link href="http://localhost/2022/01/18/vscode%E4%B8%ADarduino%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
-    <id>http://localhost/2022/01/18/vscode中arduino环境配置/</id>
-    <published>2022-01-18T13:06:42.000Z</published>
-    <updated>2022-01-18T13:38:13.272Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;来自&lt;a href=&quot;https://blog.csdn.net/Holo__/article/details/113101005&quot; target=&quot;_blank&quot;
         
       
     
@@ -531,6 +512,30 @@
     </summary>
     
       <category term="技术" scheme="http://localhost/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>live2d</title>
+    <link href="http://localhost/2021/02/06/live2d/"/>
+    <id>http://localhost/2021/02/06/live2d/</id>
+    <published>2021-02-06T11:05:47.000Z</published>
+    <updated>2021-03-05T06:02:48.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;进阶live2d&quot;&gt;&lt;a href=&quot;#进阶live2d&quot; class=&quot;headerlink&quot; title=&quot;进阶live2d&quot;&gt;&lt;/a&gt;进阶live2d&lt;/h1&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="转载" scheme="http://localhost/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
   </entry>
